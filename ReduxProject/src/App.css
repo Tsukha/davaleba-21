@@ -59,7 +59,6 @@ body {
   padding-bottom: 0.5rem;
 }
 
-/* Add Todo Styles */
 .add-todo {
   width: 100%;
 }
@@ -108,7 +107,6 @@ body {
   box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
 }
 
-/* Todo List Styles */
 .todos {
   list-style: none;
 }
@@ -217,7 +215,6 @@ body {
   border: 2px dashed #e1e8ed;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .app-main {
     padding: 1rem;
